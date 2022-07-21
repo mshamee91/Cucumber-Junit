@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Accounts page validation" skipped="0" tests="2" time="54.25" timestamp="2022-05-31 09:36:04"><testcase name="Verify Accounts page title"><failure message="expected:&lt;[Login] - My Store&gt; but was:&lt;[My account] - My Store&gt;" type="java.lang.AssertionError">expected:&lt;[Login] - My Store&gt; but was:&lt;[My account] - My Store&gt;</failure><system-err>expected:&lt;[Login] - My Store&gt; but was:&lt;[My account] - My Store&gt;&#13;
+stepdefinitions.AccountsSteps.accounts_page_title_should_be_displayed_as(AccountsSteps.java:29)&#13;
+✽.Accounts page title should be displayed as "My account - My Store"(file:///C:/Shameer/Selenium/CucumberJunit/src/test/resources/features/AccountsPage.feature:10)&#13;
+</system-err></testcase></testsuite>

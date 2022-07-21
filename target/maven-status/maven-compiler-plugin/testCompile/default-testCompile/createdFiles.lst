@@ -1,0 +1,6 @@
+stepdefinitions\LoginSteps.class
+runner\MyTestRunner.class
+runner\MySerenityTestRunner.class
+AppHooks\AppHooks.class
+stepdefinitions\AccountsSteps.class
+runner\FailedRunner.class
